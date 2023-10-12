@@ -1,2 +1,4 @@
 # rickroll_assignment
-A repo contating ICT Assignment 3 (12/10/23) 
+A website containing Rick Astley's infamous song. 
+The goal is to play around with browser controls. 
+And Ofcourse, als to rickroll my teacher. 
