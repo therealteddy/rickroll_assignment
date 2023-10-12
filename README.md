@@ -3,4 +3,4 @@ A website containing Rick Astley's infamous song.
 
 The goal is to play around with browser controls. 
 
-And Ofcourse, als to rickroll my teacher. 
+And ofcourse, als to rickroll my teacher. 
